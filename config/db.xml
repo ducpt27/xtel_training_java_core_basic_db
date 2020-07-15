@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<configuration>
+    <connection>
+        <db_type>mysql</db_type>
+        <url>jdbc:mysql://localhost:3306/student_manager?useUnicode=true;characterEncoding=UTF-8;autoReconnect=true;serverTimezone=UTC</url>
+        <user_name>root</user_name>
+        <password></password>
+    </connection>
+</configuration>
