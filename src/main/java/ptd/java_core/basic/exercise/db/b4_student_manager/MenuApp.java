@@ -1,10 +1,10 @@
 package ptd.java_core.basic.exercise.db.b4_student_manager;
 
-import com.xtel.training.ptd.common.utils.NumberUtils;
-import com.xtel.training.ptd.common.utils.StringUtils;
-import com.xtel.training.ptd.java_core.basic.exercise.db.b4_student_manager.db.DbModule;
-import com.xtel.training.ptd.java_core.basic.exercise.db.b4_student_manager.model.cmd.DbStudentInsertCmd;
-import com.xtel.training.ptd.java_core.basic.exercise.db.b4_student_manager.model.cmd.DbStudentNameExistCmd;
+import ptd.common.utils.NumberUtils;
+import ptd.common.utils.StringUtils;
+import ptd.java_core.basic.exercise.db.b4_student_manager.db.DbModule;
+import ptd.java_core.basic.exercise.db.b4_student_manager.model.cmd.DbStudentInsertCmd;
+import ptd.java_core.basic.exercise.db.b4_student_manager.model.cmd.DbStudentNameExistCmd;
 
 import java.util.Scanner;
 

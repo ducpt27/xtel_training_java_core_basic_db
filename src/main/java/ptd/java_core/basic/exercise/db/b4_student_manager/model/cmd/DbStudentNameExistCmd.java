@@ -1,6 +1,6 @@
 package ptd.java_core.basic.exercise.db.b4_student_manager.model.cmd;
 
-import com.xtel.training.ptd.java_core.basic.exercise.db.b4_student_manager.db.AbsDbCmd;
+import ptd.java_core.basic.exercise.db.b4_student_manager.db.AbsDbCmd;
 
 import java.sql.ResultSet;
 
